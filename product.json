@@ -428,6 +428,11 @@
       "resolvers",
       "contribRemoteHelp",
       "contribViewsRemote"
+    ],
+    "my-ai-org.my-ai-extension": [
+      "chatProvider",
+      "interactive",
+      "inlineCompletionsAdditions"
     ]
   },
   "extensionKind": {

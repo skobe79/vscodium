@@ -6,8 +6,8 @@ index 2578270..99c8ca5 100644
  				return [
 -					{ label: 'workspaceFolder', detail: vscode.l10n.t("The path of the folder opened in VS Code") },
 -					{ label: 'workspaceFolderBasename', detail: vscode.l10n.t("The name of the folder opened in VS Code without any slashes (/)") },
-+					{ label: 'workspaceFolder', detail: vscode.l10n.t("The path of the folder opened in !!APP_NAME!!") },
-+					{ label: 'workspaceFolderBasename', detail: vscode.l10n.t("The name of the folder opened in !!APP_NAME!! without any slashes (/)") },
++					{ label: 'workspaceFolder', detail: vscode.l10n.t("The path of the folder opened in Antigravity Clone") },
++					{ label: 'workspaceFolderBasename', detail: vscode.l10n.t("The name of the folder opened in Antigravity Clone without any slashes (/)") },
  					{ label: 'fileWorkspaceFolderBasename', detail: vscode.l10n.t("The current opened file workspace folder name without any slashes (/)") },
 diff --git a/extensions/configuration-editing/src/settingsDocumentHelper.ts b/extensions/configuration-editing/src/settingsDocumentHelper.ts
 index 12b50f3..7cb0d1b 100644
